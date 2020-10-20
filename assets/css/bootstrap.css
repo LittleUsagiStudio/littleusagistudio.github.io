@@ -320,7 +320,7 @@ textarea {
 }
 
 a {
-  color: #428bca;
+  color: #ff716a;
   text-decoration: none;
 }
 
@@ -525,7 +525,7 @@ cite {
 }
 
 .text-primary {
-  color: #428bca;
+  color: #ff716a;
 }
 
 .text-primary:hover {
@@ -4489,8 +4489,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   padding: 15px 15px;
-  font-size: 18px;
-  line-height: 20px;
+  font-size: 28px;
+  line-height: 30px;
 }
 
 .navbar-brand:hover,
